@@ -1,3 +1,3 @@
 # BSCS3-OneTeam-CC6
-tenlines.txt
+Open editor and revise file tenlines.txt
 $ git clone origin remote repository URL
